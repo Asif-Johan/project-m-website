@@ -1,0 +1,48 @@
+:root {
+    --main: #DE4839;
+    --second:#FF6263;
+}
+
+.btn-main{
+    background: var(--main) !important;
+    border: 2px solid rgb(117, 117, 117) !important; 
+}
+.text-main{
+    color: var(--main) !important;
+}
+
+.mt-10{
+    margin-top: 30vh !important;
+}
+.mt-7{
+    margin-top: 20vh !important;
+}
+.mb-10{
+    margin-bottom: 30vh !important;
+}
+
+.w-90{
+    width: 90% !important;
+}
+
+.font-bangla{
+    font-family: 'Manrope', sans-serif !important;
+    font-family: 'Noto Serif Bengali', serif !important}
+
+   .p-10{
+    padding: 7% 10%;
+   }
+
+footer a{
+    text-decoration: none !important;
+    color: rgba(255, 255, 255, 0.829) !important;
+    margin: 1vh 0;
+}
+
+footer{
+    color: rgba(255, 255, 255, 0.829) !important;
+
+}
+.fs-sm{
+    font-size:2px !important;
+}
